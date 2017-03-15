@@ -15,3 +15,4 @@
 15.  bower install bootstrap
 16.  npm install bower-files --save-dev
 16.  npm install browser-sync --save-dev
+18.  npm install gulp-sass gulp-sourcemaps --save-dev
