@@ -13,4 +13,5 @@
 13.  bower install jquery --save
 14.  bower install
 15.  bower install bootstrap
+16.  npm install bower-files --save-dev
 16.  npm install browser-sync --save-dev
